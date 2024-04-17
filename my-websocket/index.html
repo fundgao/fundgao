@@ -1,0 +1,30 @@
+<!DOCTYPE HTML>
+<html>
+<head>
+    <meta charset="utf-8">
+</head>
+<body>
+    <div onclick={WebSocketTest}>运行 WebSocket</div>
+    <script type="text/javascript">
+        const WebSocketTest = () => {
+            if ("WebSocket" in window) {
+                // 创建实例
+                const ws = new WebSocket("ws://localhost:8080");
+                ws.onopen = function () {
+                    ws.send("发送数据");
+                };
+                ws.onmessage = function (evt) {
+                    var received_msg = evt.data;
+                    console.log(received_msg, 'received_msg')
+                };
+                ws.onclose = function () {
+                    alert("连接已关闭...");
+                };
+            }
+            else {
+                alert("您的浏览器不支持 WebSocket!");
+            }
+        }
+    </script>
+</body>
+</html>
