@@ -1,3 +1,1 @@
-```
-https://github.com/everthis/leetcode-js
-```
+### JavaScript solutions of LeetCode problems
