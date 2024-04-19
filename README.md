@@ -4,28 +4,40 @@
 
 <p>
 
-#### 📋 Languages
+#### 📋 编程语言
 [TypeScript]()
 [JavaScript]()
 [HTML5]()
 [CSS3]()
 [Java]()
 
-#### 📚 Frameworks, Platforms and Libraries
+#### 📚 项目构建 - 框架、技术选型、UI库
 [NodeJS](https://nodejs.org/en)
 [NestJS](https://nestjs.com/)
 [NextJS](https://nextjs.org/)
 [React](https://react.dev/)
 [Vue.js](https://cn.vuejs.org/)
 [Ant-Design](https://ant-design.antgroup.com/index-cn)
+[小程序 - Taro](https://docs.taro.zone/docs/)
 
-#### 💻 IDEs/Editors
+#### 📚 项目构建 - 插件库
+[Echarts](https://echarts.apache.org/examples/zh/index.html#chart-type-candlestick)
+[Webpack]()
+[Vite]()
+[Turbo]()
+[dayjs - 时间插件]()
+[ahooks - hooks]()
+[axios - 请求插件]()
+[moment - 时间插件]()
+[swiper - 轮博图]()
+
+#### 💻 编辑器
 [Visual Studio Code](https://code.visualstudio.com/)
 
-#### 💾 Databases
+#### 💾 数据库
 [MySQL](https://www.mysql.com/)
 
-#### 💲 Cryptocurrency
+#### 💲 投资 - Crypto
 [Bitcoin](https://github.com/bitcoin/bitcoin)
 [Ethereum]()
 [APT](https://github.com/aptos-labs/aptos-core)
@@ -33,21 +45,19 @@
 [W](https://github.com/wormhole-foundation/wormhole)
 [SEI](https://github.com/sei-protocol/sei-chain)
 
-#### 🧑‍💻 Developer
-[Stack Overflow]()
-[Stack Exchange]()
-[LeetCode]()
+#### 🧑‍💻 寻找帮助
+[Google](https://www.google.com.hk/?client=safari)
+[ChatGPT](https://chat.openai.com)
 	
 #### 💬 Social
 [Twitter]()
 [Discord]()
 [Gmail]()
 [LinkedIn]()
-[Reddit]()
 [Telegram]()
 [YouTube]()
 
-#### 🧪 Testing
+#### 🧪 测试工具
 [Jest]()
 [cypress]()
 </p>
