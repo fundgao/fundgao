@@ -1,3 +1,4 @@
+### 卸载命令
 ```
 sudo service mysql stop
 
@@ -17,9 +18,14 @@ sudo apt-get autoclean
 sudo apt-get install mysql-server
 
 设置密码
-mysql
+sudo mysql
+
+use mysql;
+
+alter user 'root'@'localhost' identified with mysql_native_password by '123456';
 ```
 
+### 查看服务命令
 ```
 service mysql status
 
