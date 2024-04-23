@@ -19,3 +19,13 @@ sudo apt-get install mysql-server
 设置密码
 mysql
 ```
+
+```
+service mysql status
+
+service mysql restart
+
+service mysql start
+
+service mysql stop
+```
