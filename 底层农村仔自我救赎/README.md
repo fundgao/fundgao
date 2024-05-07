@@ -34,6 +34,7 @@
 - [Web API](https://developer.mozilla.org/zh-CN/docs/Web/API)
 - [React](https://react.docschina.org)
 - [Vue](https://cn.vuejs.org)
+- [开发者备忘清单](https://wangchujiang.com/reference/)
 
 ### 寻找同频人
 - [掘金](https://juejin.cn)
