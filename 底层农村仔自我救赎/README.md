@@ -40,3 +40,6 @@
 - [掘金](https://juejin.cn)
 - [知乎](https://www.zhihu.com)
 - [百度贴吧](http://nba.baidu.com/f?kw=九号电动车)
+
+### 竞赛奖金
+-[阿里云天池](https://tianchi.aliyun.com/?spm=a2c22.12281976.J_3941670930.7.7b0d6a58t6EENA)
