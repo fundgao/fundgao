@@ -21,6 +21,13 @@
 - [教习网](https://www.51jiaoxi.com/) 教习网-PPT课件,教案,试题试卷-精选教学资源下载网
 - [教研云](https://www.jiaoyanyun.com)
 
+### 看视频自学网
+- [B站](www.bilibili.com)
+- [网易公开课](open.163.com)
+- [极客时间](time.geekbang.org)
+- [慕课网](www.imooc.com)
+- [力扣](www.leetcode-cn.com)
+
 ### 解惑篇
 - [通往 AGI 之路](https://waytoagi.feishu.cn/wiki/QPe5w5g7UisbEkkow8XcDmOpn8e)
 - [AI 工具导航](https://aibard123.com)
