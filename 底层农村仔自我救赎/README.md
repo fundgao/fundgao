@@ -27,6 +27,7 @@
 - [极客时间](https://time.geekbang.org)
 - [慕课网](https://www.imooc.com)
 - [力扣](https://www.leetcode-cn.com)
+- [阿里云培训中心 - 推荐](https://edu.aliyun.com)
 
 ### 解惑篇
 - [通往 AGI 之路](https://waytoagi.feishu.cn/wiki/QPe5w5g7UisbEkkow8XcDmOpn8e)
