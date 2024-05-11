@@ -1,8 +1,8 @@
 # 配置
-```
-狗狗加速 10元/月/160G
-https://www.dg7.top/#/register?code=xLtWd6WL
-```
+### 狗狗加速 10元/月/160G
+
+### [https://www.dg7.top/#/register?code=xLtWd6WL](https://www.dg7.top/#/register?code=xLtWd6WL)
+
 - 安装对应的软件
 
 - 获取配置文件
