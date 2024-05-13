@@ -9,6 +9,10 @@ https://juejin.cn/post/7355383157556215847?searchId=20240423173143B3F5C288DC31A3
 ```
 sudo 1pctl uninstall
 ```
+查看 1Panel 登录链接
+```
+sudo 1pctl user-info
+```
 
 ### [宝塔面板](https://www.bt.cn/new/index.html)
 ```
