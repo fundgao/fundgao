@@ -1,0 +1,49 @@
+.container{
+  height: 100vh;
+  position: relative;
+}
+.item {
+  height: 0;
+  width: 100%;
+  position: absolute;
+  transition: 1s ease-in-out;
+  overflow: hidden;
+}
+.item.cur {
+  height: 100%;
+}
+.item img {
+  height: 100vh;
+  width: auto;
+  object-fit: cover;
+  position: absolute;
+  transition: 1s ease-in-out;
+}
+.item.prev, .item.next {
+  z-index: 1;
+  height: 0;
+  position: absolute;
+  /* bottom: 0; */
+}
+.item.next {
+  bottom: 0;
+}
+.next img {
+  bottom: 0;
+  transform: translateY(10%);
+}
+.prev img {
+  transform: translateY(-10%);
+}
+.scroll-down .next{
+  height: 100%;
+}
+.scroll-down .next img{
+  transform: translateY(0);
+}
+.scroll-up .prev {
+  height: 100%;
+}
+.scroll-up .prev img {
+  transform: translateY(0);
+}
