@@ -39,11 +39,12 @@
 - [月之暗面-KIMI](https://kimi.moonshot.cn)
 
 ### 工具篇
-- [在线工具](https://tool.browser.qq.com)
+- [QQ 在线工具](https://tool.browser.qq.com)
 - [Web API](https://developer.mozilla.org/zh-CN/docs/Web/API)
 - [React](https://react.docschina.org)
 - [Vue](https://cn.vuejs.org)
 - [开发者备忘清单](https://wangchujiang.com/reference/)
+- [在线画流程图](https://excalidraw.com)
 
 ### 寻找同频人
 - [掘金](https://juejin.cn)
