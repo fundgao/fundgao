@@ -249,6 +249,7 @@
 * [50万国人研究证实：不好好刷牙，致癌！血管疾病也会增多！](https://www.cn-healthcare.com/articlewm/20211209/content-1293760.html)
   * 经常不刷牙的人：癌症、慢性阻塞性肺病及肝硬化风险分别增加了9%、12%和25%，过早死亡风险增加25%。
 
+
 ##### 6.2.5. 泡澡
 
 * [定期洗澡降低心血管疾病发作风险](https://www.cn-healthcare.com/article/20200326/content-533379.html)
