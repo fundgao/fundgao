@@ -1,5 +1,5 @@
-## U卡 可充值、续费Claude Code | Cursor | X | Midjourney | OpenAI | 微信 | 支付宝
-U卡注册：https://h5.dogpay.com/r/18800185
+## U卡(Visa | MasterCard) 可充值、续费Claude Code | Cursor | X | Midjourney | OpenAI | 微信 | 支付宝
+U卡(Visa | MasterCard)注册了链接：https://h5.dogpay.com/r/18800185
 
 ## 今年汇总 ✨
 
